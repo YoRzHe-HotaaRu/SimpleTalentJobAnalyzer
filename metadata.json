@@ -1,0 +1,5 @@
+{
+  "name": "TalentScout AI",
+  "description": "A modern, client-side Resume Analyzer for IT talent. Upload resumes (PDF) and match them against job descriptions using Gemini AI for instant scoring and skill extraction.",
+  "requestFramePermissions": []
+}
